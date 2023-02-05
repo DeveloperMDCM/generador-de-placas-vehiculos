@@ -1,0 +1,38 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #222;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.boton
+{
+   text-align: center;
+   margin: 20px 0;
+}
+
+  
+.cargar{
+    width: 400px;
+    height: 100px;
+    border-radius: 20px;
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #00a8db;
+}
+
+.cargar:hover
+{
+    background-color: #0881a7;
+}
+  
+ 
