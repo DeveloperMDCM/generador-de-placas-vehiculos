@@ -18,8 +18,7 @@ const StartGame = () => { //funcion QUE INICIA el cargue de imagenes
     div.style.height = `${200}` + `px`; //`${i}px`
     div.style.margin = `${20}` + `px`; //`${i}px`
     div.setAttribute("class", `div`);
-    div.setAttribute("src", `https://matriculasdelmundo.com/gCOL1.php?textCOL1=${d[0][i]}&textCOL10=SINCELEJO`); 
+    div.setAttribute("src", `https://matriculasdelmundo.com/gCOL1.php?textCOL1=${d[0][i]}&textCOL10=COLOMBIA`); 
     
   }
 }
-console.log("mmos")
